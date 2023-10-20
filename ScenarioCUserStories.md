@@ -16,4 +16,6 @@ For this scenario, we were instructed to imagine that we were developing the sys
 - "I should be able to have my money back immediately if I accidentally overpay"
 - Users prefer direct debit to account rather than a credit system 
 
-
+### up2113252
+-"I want to be able to see the history of people who have paid and how much each person has paid in total."
+-Users will have access to a comprehensive payment history, allowing them to view a record of who has paid and the total amount each person has contributed over time. This feature ensures transparency and helps users keep track of shared expenses efficiently.
